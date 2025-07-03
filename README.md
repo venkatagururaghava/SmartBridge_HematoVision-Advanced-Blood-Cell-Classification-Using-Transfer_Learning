@@ -1,5 +1,4 @@
 # SmartBridge_HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer_Learning
-# SmartBridge_ai_ml
 HematoVision: AI-Powered Blood Cell Classification
 
 1. INTRODUCTION:
