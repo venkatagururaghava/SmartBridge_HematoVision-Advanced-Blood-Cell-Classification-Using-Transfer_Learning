@@ -10,12 +10,11 @@ HematoVision: AI-Powered Blood Cell Classification
 
 2.IDEATION PHASE:
 
-**Define Problem Statements Template:** https://github.com/venkatagururaghava/SmartBridge_HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer_Learning/blob/Final-Document/HematoVision_Final_Report.docx
+**Define Problem Statements Template:** https://github.com/venkatagururaghava/SmartBridge_HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer_Learning/blob/Ideation-Phase/Copy.of.Define.Problem.Statements.Template.docx
 
-**Empathy Map Canvas:** (https://github.com/user-attachments/files/20941385/Copy.of.Empathy.Map.Canvas.docx)
+**Empathy Map Canvas:** https://github.com/venkatagururaghava/SmartBridge_HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer_Learning/blob/Ideation-Phase/Copy.of.Empathy.Map.Canvas.docx
 
-**Brainstorming- Idea Generation- Prioritizaation Template:**(https://github.com/user-attachments/files/20961814/Copy.of.Brainstorming-.Idea.Generation-.Prioritizaation.Template.docx)
-
+**Brainstorming- Idea Generation- Prioritizaation Template:** https://github.com/venkatagururaghava/SmartBridge_HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer_Learning/blob/Ideation-Phase/Copy.of.Brainstorming-.Idea.Generation-.Prioritizaation.Template.docx
 3. REQUIREMENT ANALYSIS:
    
 **Customer Journey Map - Example:**(https://github.com/user-attachments/files/20961844/Customer.Journey.Map.-.Example.pdf)
