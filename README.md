@@ -11,9 +11,9 @@ HematoVision: AI-Powered Blood Cell Classification
 
 2.IDEATION PHASE:
 
-**Define Problem Statements Template:**(https://github.com/user-attachments/files/20941360/Copy.of.Define.Problem.Statements.Template.docx)
+**Define Problem Statements Template:** https://github.com/venkatagururaghava/SmartBridge_HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer_Learning/blob/Final-Document/HematoVision_Final_Report.docx
 
-**Empathy Map Canvas:**(https://github.com/user-attachments/files/20941385/Copy.of.Empathy.Map.Canvas.docx)
+**Empathy Map Canvas:** (https://github.com/user-attachments/files/20941385/Copy.of.Empathy.Map.Canvas.docx)
 
 **Brainstorming- Idea Generation- Prioritizaation Template:**(https://github.com/user-attachments/files/20961814/Copy.of.Brainstorming-.Idea.Generation-.Prioritizaation.Template.docx)
 
